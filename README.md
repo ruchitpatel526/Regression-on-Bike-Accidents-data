@@ -7,6 +7,7 @@ Project 1:
 Steps:
 
 Initializations: Process data correctly to reflect right data impute missing values 
+
 Preprocessing: Preprocess data for our machine learning models 
 Data Visualization 
 Apply ML Regression Models: KNN regressor Linear regression Ridge Lasso Polynomial regression SVM (simple, RBF, poly, linear) 
